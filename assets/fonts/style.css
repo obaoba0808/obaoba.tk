@@ -1,0 +1,25 @@
+@font-face {
+   font-family: 'FZMoDTJF_Da';
+   font-display: swap;
+   src: url('FZMoDTJF_Da/font.TTF');
+}
+@font-face {
+   font-family: '清松手寫體2';
+   font-display: swap;
+   src: url('清松手寫體2/font.ttf');
+}
+@font-face {
+   font-family: '蒙纳简粗雅兰繁';
+   font-display: swap;
+   src: url('蒙纳简粗雅兰繁/font.ttf');
+}
+@font-face {
+   font-family: '蒙纳幼雅丽繁';
+   font-display: swap;
+   src: url('蒙纳幼雅丽繁/font.ttf');
+}
+@font-face {
+   font-family: 'FZMoDTJF_Zhong';
+   font-display: swap;
+   src: url('FZMoDTJF_Zhong/font.TTF');
+}
