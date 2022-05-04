@@ -1,0 +1,25 @@
+@font-face {
+   font-family: '华文琥珀';
+   font-display: swap;
+   src: url('华文琥珀/font.ttf');
+}
+@font-face {
+   font-family: '胡晓波美心常规体';
+   font-display: swap;
+   src: url('胡晓波美心常规体/font.ttf');
+}
+@font-face {
+   font-family: '华康圆体W5-P';
+   font-display: swap;
+   src: url('华康圆体W5-P/font.ttf');
+}
+@font-face {
+   font-family: '蒙纳幼雅丽繁';
+   font-display: swap;
+   src: url('蒙纳幼雅丽繁/font.ttf');
+}
+@font-face {
+   font-family: 'FZMoDTJF_Zhong';
+   font-display: swap;
+   src: url('FZMoDTJF_Zhong/font.TTF');
+}
