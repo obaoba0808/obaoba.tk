@@ -476,7 +476,7 @@
     },
     "robotsText": "User-agent: *\nAllow: /\n\nSitemap: https://obaoba.site/sitemap.xml\n\n\n",
     "publishChangesOnly": true,
-    "google-analytics": "<!-- Analytics -->\t\n<script type=\"application/ld+json\">\t\n{\t\n  \"@context\" : \"http://schema.org\",\t\n  \"@type\" : \"LocalBusiness\",\t\n  \"name\" : \"O-BA傳播\",\t\n  \"image\" : \"https://obaoba.site/assets/images/123-1-122x101.jpg\",\t\n  \"telephone\" : \"+886979108866\",\t\n  \"address\" : {\t\n    \"@type\" : \"PostalAddress\",\t\n    \"addressLocality\" : \"taipei\"\t\n  },\t\n  \"url\" : \"https://obaoba.site/\"\t\n}\t\n  </script>\t\n<!-- /Analytics -->",
+    "google-analytics": "<!-- Analytics -->\t\n<script type=\"application/ld+json\">\t\n{\t\n  \"@context\" : \"http://schema.org\",\t\n  \"@type\" : \"LocalBusiness\",\t\n  \"name\" : \"O-BA傳播\",\t\n  \"image\" : \"https://obaoba.tk/assets/images/123-1-122x101.jpg\",\t\n  \"telephone\" : \"+886926656666\",\t\n  \"address\" : {\t\n    \"@type\" : \"PostalAddress\",\t\n    \"addressLocality\" : \"taipei\"\t\n  },\t\n  \"url\" : \"https://obaoba.tk/\"\t\n}\t\n  </script>\t\n<!-- /Analytics -->",
     "dppsSwitcher": true,
     "spellingSwitch": true,
     "site_lang": "undefined",
