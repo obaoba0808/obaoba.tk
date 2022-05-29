@@ -1,26 +1,38 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/about.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/girl.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/dinner-girl.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/information.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/lust-index.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/privacy-policy.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/bliss-taipei.html</loc>
-	</url>
-	<url>
-		<loc>https://obaoba.tk/sitemap.xml/index.html</loc>
-	</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://obaoba.tk/</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/girl.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/dinner-girl.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/lust-index.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/bliss-taipei.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/about.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://obaoba.tk/information.html</loc>
+<lastmod>2022-05-29T04:40:06+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
