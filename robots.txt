@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://obaoba.tk/sitemap.xml
+Sitemap:https://obaoba.tk/sitemap.xml
 
 
