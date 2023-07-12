@@ -1,0 +1,20 @@
+{
+  "short_name": "傳播公司|O-Ba傳播",
+  "name": "傳播公司|O-Ba傳播",
+  "icons": [
+    {
+      "src": "/assets/images/傳播公司.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/傳播公司.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
