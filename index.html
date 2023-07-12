@@ -25,10 +25,13 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link href="assets/fonts/style.css" rel="stylesheet">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-
-  
-  
-  <!-- Google tag (gtag.js) -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="pwa test">
+  <link rel="apple-touch-icon" href="icon.png">
+  <meta name="msapplication-TileImage" content="icon.png">
+  <meta name="msapplication-TileColor" content="#3367D6">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6JVK6K3KK">
 </script>
 <script>
@@ -489,5 +492,17 @@
 <input name="cookieData" type="hidden" data-cookie-cookiesAlertType='false' data-cookie-customDialogSelector='null' data-cookie-colorText='#424a4d' data-cookie-colorBg='rgb(234, 239, 241)' data-cookie-opacityOverlay='80' data-cookie-textButton='Agree' data-cookie-rejectText='REJECT' data-cookie-colorButton='' data-cookie-rejectColor='' data-cookie-colorLink='#424a4d' data-cookie-underlineLink='true' data-cookie-text="We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.">
    <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
     <input name="animation" type="hidden">
+   <script>
+    window.addEventListener('load', async () => {
+      if ('serviceWorker' in navigator) {
+        try {
+          const registration = await navigator.serviceWorker.register('/sw.js');
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                  } catch (err) {
+          console.error(err);
+        }
+      }
+    });
+  </script>
   </body>
 </html>
